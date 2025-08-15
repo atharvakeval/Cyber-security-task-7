@@ -1,0 +1,16 @@
+Suspicious Extensions Report
+
+Extensions Found
+1. Super Free VPN- Provides free VPN service; permissions seemed excessive and unverified source.  
+2. Easy Coupons Finder- Injects ads and tracks browsing; flagged by multiple security forums.
+
+Actions Taken
+- Removed both suspicious extensions.
+- Verified the rest of the extensions from trusted sources.
+
+Best Practices for Browser Extensions
+- Only install extensions from reputable developers.
+- Review requested permissions carefully.
+- Remove extensions you no longer use.
+- Keep extensions updated to the latest version.
+- Report malicious extensions to the browser's web store.
